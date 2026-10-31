@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MT5 Bot</string>
+    <string name="accessibility_description">Lets MT5 Bot read the screen and tap buttons in MT5 to open and close trades. Turn it off any time.</string>
+</resources>
